@@ -1,0 +1,13 @@
+target/
+build/
+.gradle/
+*.class
+*.log
+.idea/
+*.iml
+.vscode/
+.DS_Store
+.env
+HELP.md
+bin/
+hs_err_pid*.log
